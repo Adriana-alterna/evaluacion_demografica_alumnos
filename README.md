@@ -1,4 +1,4 @@
-# evaluacion_demografica_alumnos
+# Evaluacion_demografica_alumnos
 En este repositorio se estudian las calificaciones de 2000 estudiantes de preparatoria de acuerdo a diversas características
 # 🎓 Análisis de Rendimiento Estudiantil con Python
 
